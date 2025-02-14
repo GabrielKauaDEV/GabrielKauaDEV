@@ -21,8 +21,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
- 
 <br>
  
 ### Redes Sociais!
